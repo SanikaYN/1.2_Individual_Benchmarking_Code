@@ -1,0 +1,7 @@
+paperID,unique_reference_structures,unique_valid_predictions,exactly_recovered_structures,exact_recovery_rate
+1,17,17,17,1.0
+2,34,30,9,0.2647058823529412
+4,60,57,14,0.23333333333333334
+6,1,1,0,0.0
+16,4,7,1,0.25
+19,104,47,19,0.18269230769230768

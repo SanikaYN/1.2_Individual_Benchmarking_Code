@@ -1,0 +1,2 @@
+pipeline,papers,pages_processed,reference_entries,unique_references_within_papers,detected_crops,valid_predictions,unresolved_predictions,invalid_predictions,recognition_errors,exactly_recovered_structures,exact_structure_recovery_rate,mean_best_available_tanimoto,detection_stage_seconds,recognition_stage_seconds
+MolDetv2 + MolGlyph,6,104,222,220,235,229,4,2,0,60,0.2727272727272727,0.7582591636693747,30.03539190068841,715.9706859008875
