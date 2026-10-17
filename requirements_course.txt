@@ -1,0 +1,16 @@
+numpy==1.26.4
+pandas==2.3.3
+Pillow==12.3.0
+rdkit==2026.9.1
+torch==1.13.1
+torchvision==0.14.1
+matplotlib==3.10.9
+opencv-python==4.11.0.86
+SmilesPE==0.0.3
+OpenNMT-py==2.2.0
+albumentations==1.1.0
+timm==0.4.12
+ipykernel==7.3.0
+PyMuPDF==1.28.2
+ultralytics==8.4.178
+./BioMiner-main/BioMiner/MolScribe
