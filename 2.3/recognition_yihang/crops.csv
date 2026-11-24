@@ -1,0 +1,5 @@
+crop_id,paper_id,page,crop_path,molecule_label
+2_p2_001,2,2,../opencv_pilot/benchmark/xn_images/paper_2_sample_01.png,AKI-062a
+2_p2_002,2,2,../opencv_pilot/benchmark/xn_images/paper_2_sample_02.png,D4476
+2_p2_003,2,2,../opencv_pilot/benchmark/xn_images/paper_2_sample_03.png,FP1-24
+2_p2_004,2,2,../opencv_pilot/benchmark/xn_images/paper_2_sample_04.png,Compound 1h

@@ -1,0 +1,5 @@
+crop_id,paper_id,raw_smiles,inference_time,raw_caption,recognition_status,error
+2_p2_001,2,CN(C)CC(=O)Nc1n[nH]c2ccc(-c3cn(Cc4ccccc4)nn3)cc12,1.244501,CN(C)CC(=O)Nc1n[nH]c2ccc(-c3cn(Cc4ccccc4)nn3)cc12<sep>,ok,
+2_p2_002,2,NC(=O)c1ccc(-c2nc(-c3ccc4c(c3)OCCO4)c(-c3ccccn3)[nH]2)cc1,1.38875,NC(=O)c1ccc(-c2nc(-c3ccc4c(c3)OCCO4)c(-c3ccccn3)[nH]2)cc1<sep>,ok,
+2_p2_003,2,COc1cnc(COc2ccc(F)c(F)c2)cc1-c1cc2c([nH]1)CCNC2=O,1.229535,COc1cnc(COc2ccc(F)c(F)c2)cc1-c1cc2c([nH]1)CCNC2=O<sep>,ok,
+2_p2_004,2,CC(C)(O)c1ccc(Nc2nc3ccc(C#N)cc3[nH]2)cc1,1.208364,CC(C)(O)c1ccc(Nc2nc3ccc(C#N)cc3[nH]2)cc1<sep>,ok,
